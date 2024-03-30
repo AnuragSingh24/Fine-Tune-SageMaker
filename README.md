@@ -1,3 +1,4 @@
+*Fine-tuning SageMaker* 
 Fine-tuning in Amazon SageMaker involves the process of taking a pre-trained machine learning model, often a deep learning model such as a language model, and adjusting its parameters to better fit a specific task or domain. Here's a detailed description of the fine-tuning process in Amazon SageMaker:
 
 Setting Up SageMaker Environment:
